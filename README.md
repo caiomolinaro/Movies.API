@@ -1,0 +1,1 @@
+### This repository aims to learn and show how to connect a MongoDB Database and query its data using ASP.NET Core Web API
